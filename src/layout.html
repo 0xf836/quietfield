@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{description}}">
+  <meta name="theme-color" content="#f5f5ef">
+  <title>{{title}}</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%232e493e'/%3E%3Cpath d='M16 7v18M7 16h18' stroke='%23f5f5ef' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='6' fill='none' stroke='%23f5f5ef'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{asset:styles.css}}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="wordmark" href="index.html" aria-label="Digital Field Station, overview">
+        <span class="station-mark" aria-hidden="true"></span>
+        <span>Digital Field Station</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        {{navigation}}
+      </nav>
+    </header>
+    <main id="main" tabindex="-1">
+      {{content}}
+    </main>
+    <footer class="site-footer">
+      <span>Digital Field Station</span>
+      <span>Weather, wildlife &amp; field observations</span>
+    </footer>
+  </div>
+</body>
+</html>

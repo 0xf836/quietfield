@@ -1,0 +1,18 @@
+{
+  "forest.jpg": {
+    "title": "Nature-forest-trees-fog",
+    "author": "Jaymantri",
+    "source": "https://commons.wikimedia.org/wiki/File:Nature-forest-trees-fog.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "37c1419d74006a3bf5e9a10c93eb750b343684180870be6abde2f5aef2c3a4e3"
+  },
+  "robin.jpg": {
+    "title": "European robin singing in tree, Nienburg",
+    "author": "Gerda Arendt",
+    "source": "https://commons.wikimedia.org/wiki/File:European_robin_singing_in_tree,_Nienburg.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "4ad0e3a0510ea1568564f5d0b57a7db81451c977db758abdf38ce00245b58f71"
+  }
+}
